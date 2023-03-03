@@ -7,7 +7,7 @@ public class Test1 {
 		String name = "정은수";
 
 		
-
+		String n = "김선민";
 		
 		
 		
