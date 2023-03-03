@@ -5,7 +5,9 @@ public class Test1 {
 		
 		
 
-		int add = 0;
+		int add = 60;
+		
+		int b = 80;
 		
 		
 		
