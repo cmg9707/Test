@@ -5,6 +5,8 @@ public class Test1 {
 		
 		
 		int add = 0;
+		
+		
 	}
 
 }
